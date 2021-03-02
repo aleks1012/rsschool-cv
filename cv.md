@@ -18,3 +18,7 @@ My purpose is to become a front-end developer. I have no experience in IT, but I
 * 2017-2019, Samara State Technical University, Electrical Engineering Faculty, Master's degree.
 ## Level of English:  
 А2 - elementary.  
+  
+[https://github.com/aleks1012](https://github.com/aleks1012)  
+©  2021 ©  all rights reserved  
+CV created by Alexei Zharskii
