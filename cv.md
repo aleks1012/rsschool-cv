@@ -16,4 +16,5 @@ My purpose is to become a front-end developer. I have no experience in IT, but I
 ## Education: 
 * 2013-2017, Samara State Technical University, Heat Power Engineering Faculty, Bachelor's degree;
 * 2017-2019, Samara State Technical University, Electrical Engineering Faculty, Master's degree.
-## Level of English: 
+## Level of English:  
+А2 - elementary.  
