@@ -1,0 +1,33 @@
+h1 {
+	text-align: center;
+	font-size: 24px;
+	font-weight: bold;
+}
+h2 {
+	font-size: 20px;
+	font-weight: bold;
+	text-decoration: underline;
+}
+p, ul, figure {
+	margin: 0 auto;
+}
+footer {
+	margin-top: 20px;
+	text-align: center;
+	font-size: 12px;
+}
+.first-word {
+	font-weight: bold;
+}
+.photo {
+	width: 187px; 
+	height: 204px;
+	margin: 5px;
+	float: right;
+}
+.logo_rss {
+  width: 100px;
+  height: 10%;
+  display: block;
+  margin: 10px auto;
+}
